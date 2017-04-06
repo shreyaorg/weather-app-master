@@ -4,7 +4,7 @@
 
 ### Description
 
-Weather-app is a little react.js app that show the weather forecast for a specified Pincode.
+Weather-app is a Small react.js app that show the weather forecast for a specified Pincode. 
 
 ### Installation
 
