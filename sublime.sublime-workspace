@@ -1,0 +1,276 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"dark",
+				"darkskyapi"
+			],
+			[
+				"s",
+				"summary"
+			],
+			[
+				"DAR",
+				"DARKSKY_APIKEY"
+			],
+			[
+				"G",
+				"GOOGLE_GEOCODING_API_KEY"
+			],
+			[
+				"GEOD",
+				"GOOGLE_GEOCODING_API"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 81.0,
+		"last_filter": "format",
+		"selected_items":
+		[
+			[
+				"format",
+				"Format: Javascript"
+			],
+			[
+				"package",
+				"Package Control: Install Package"
+			],
+			[
+				"remove",
+				"Package Control: Remove Package"
+			],
+			[
+				"packages",
+				"Package Control: List Packages"
+			],
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				"package ",
+				"Install Package Control"
+			]
+		],
+		"width": 416.0
+	},
+	"console":
+	{
+		"height": 0.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/C/Users/Swetha/Downloads/weather-app-master/weather-app-master",
+		"/C/Users/Swetha/Downloads/weather-app-master/weather-app-master/app",
+		"/C/Users/Swetha/Downloads/weather-app-master/weather-app-master/app/components",
+		"/C/Users/Swetha/Downloads/weather-app-master/weather-app-master/app/config",
+		"/C/Users/Swetha/Downloads/weather-app-master/weather-app-master/app/containers",
+		"/C/Users/Swetha/Downloads/weather-app-master/weather-app-master/app/helpers"
+	],
+	"file_history":
+	[
+		"/C/Users/Swetha/Downloads/weather-app-master/weather-app-master/app/helpers/utils.js",
+		"/C/Users/Swetha/Downloads/webpack-setup/package.json",
+		"/C/Users/Swetha/Downloads/weather-app-master/weather-app-master/package.json",
+		"/C/Users/Swetha/Desktop/GoogleGeocoding API Key.txt",
+		"/C/Users/Swetha/Downloads/weather-app-master/weather-app-master/app/helpers/api.js",
+		"/C/Users/Swetha/Downloads/weather-app-master/weather-app-master/webpack.config.js",
+		"/C/Users/Swetha/Downloads/weather-app-master/weather-app-master/app/config/routes.jsx",
+		"/C/Users/Swetha/Downloads/weather-app-master/weather-app-master/app/containers/ForecastContainer.jsx",
+		"/C/Users/Swetha/Downloads/weather-app-master/weather-app-master/app/components/Forecast.jsx",
+		"/C/Users/Swetha/Downloads/weather-app-master/weather-app-master/app/containers/ForecastDayContainer.jsx",
+		"/C/Users/Swetha/Downloads/weather-app-master/weather-app-master/app/components/ForecastDay.jsx",
+		"/C/Users/Swetha/Downloads/weather-app-master/weather-app-master/app/components/LocationWidget.jsx",
+		"/C/Users/Swetha/Downloads/webpack-setup/webpack.config.js",
+		"/C/Users/Swetha/Downloads/webpack-setup/entry.js",
+		"/C/Users/Swetha/Downloads/weather-app-master/weather-app-master/app/containers/LocationWidgetContainer.jsx",
+		"/C/Users/Swetha/Downloads/weather-app-master/weather-app-master/app/components/Main.jsx",
+		"/C/Users/Swetha/Downloads/weather-app-master/weather-app-master/app/components/Home.jsx",
+		"/C/Users/Swetha/Downloads/weather-app-master/weather-app-master/app/index.jsx",
+		"/C/Users/Swetha/Documents/Swetha-React-Weather-app/app/helpers/api.js",
+		"/C/Users/Swetha/Documents/Swetha-React-Weather-app/app/config/routes.jsx",
+		"/C/Users/Swetha/Documents/Swetha-React-Weather-app/app/helpers/utils.js",
+		"/C/Users/Swetha/Documents/Swetha-React-Weather-app/app/components/LocationWidget.jsx",
+		"/C/Users/Swetha/Documents/Swetha-React-Weather-app/app/components/Main.jsx",
+		"/C/Users/Swetha/Documents/Swetha-React-Weather-app/app/components/weatherAppContainer.jsx",
+		"/C/Users/Swetha/Documents/Swetha-React-Weather-app/app/components/Loading.jsx",
+		"/C/Users/Swetha/Documents/Swetha-React-Weather-app/app/components/Home.jsx",
+		"/C/Users/Swetha/Documents/Swetha-React-Weather-app/app/containers/LocationWidgetContainer.jsx",
+		"/C/Users/Swetha/Documents/Swetha-React-Weather-app/app/components/weather.jsx",
+		"/C/Users/Swetha/Downloads/react-weather-app-master/react-weather-app-master/src/App.js",
+		"/D/nodeapps/cyclejs-app/src/main.js",
+		"/D/nodeapps/cyclejs-app/src/ShareComponent.js",
+		"/D/nodeapps/cyclejs-app/src/Typeahead.js",
+		"/D/nodeapps/cyclejs-app/index.html",
+		"/D/nodeapps/cyclejs-app/package.json",
+		"/D/nodeapps/cyclejs-app/Gruntfile.js",
+		"/D/nodeapps/cyclejs-app/app.js"
+	],
+	"find":
+	{
+		"height": 36.0
+	},
+	"find_in_files":
+	{
+		"height": 90.0,
+		"where_history":
+		[
+			""
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"Locattion",
+			"dt",
+			"current.dt",
+			"getCurrentWeather",
+			"getWeatherIconClass",
+			"getWeatherIconString",
+			"weatherCodes",
+			"normalizeCurrentData",
+			"weatherCodes",
+			"api",
+			"DetailContainer",
+			"detail",
+			"deatil",
+			"xstream"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 28.0
+	},
+	"input":
+	{
+		"height": 31.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "sublime.sublime-project",
+	"replace":
+	{
+		"height": 52.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"util",
+				"app\\helpers\\utils.js"
+			],
+			[
+				"paka",
+				"package.json"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 286.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
