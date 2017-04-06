@@ -1,6 +1,6 @@
 # :zap: weather-app :zap:
 
-![screenshot](./screenshot.png)
+![screenshot](./Capture.PNG)
 
 ### Description
 
