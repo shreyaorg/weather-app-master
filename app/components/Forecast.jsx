@@ -27,7 +27,7 @@ function Forecast({ isLoading, city, current, forecast }) {
       <br />
       <div className="row">
         <div className="col-sm-4 col-sm-offset-4 text-center">
-          <h3>Seve Day Forecast</h3>
+          <h3>Seven Day Forecast</h3>
         </div>
       </div>
       <br />
