@@ -1,10 +1,11 @@
-const bgImg = require('../images/gplaypattern.png');
+const bgImg = require('../images/Weather5.jpg');
 
 export const mainComponent = {
   backgroundImage: String.prototype.concat("url('.", bgImg, "')"),
-  backgroundRepeat: 'repeat',
+  backgroundRepeat: 'no-repeat',
   minHeight: '100%',
   position: 'relative',
+  backgroundSize: '1500px',
 };
 
 export const vcenter = {
@@ -21,6 +22,7 @@ export const detailLink = {
 
 export const currentIcon = {
   fontSize: '2em',
+  cursor: 'pointer',
 };
 
 export const forcastDay = {
@@ -29,5 +31,7 @@ export const forcastDay = {
 export const hcenter = {
   display: 'flex',
   justifyContent: 'center',
+  fontSize : '18px',
+  fontWeight:'bold',
 };
 

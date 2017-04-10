@@ -39,5 +39,5 @@
     "production": "NODE_ENV=production webpack -p",
     "deploy": "npm run production && git-directory-deploy --directory dist/"
   },
-  "author": "Swetha Sangepu",
+  "author": "Swetha Sangepu"
 }
