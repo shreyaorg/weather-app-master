@@ -1,11 +1,11 @@
-const bgImg = require('../images/Weather5.jpg');
+const bgImg = require('../images/2.jpg');
 
 export const mainComponent = {
   backgroundImage: String.prototype.concat("url('.", bgImg, "')"),
   backgroundRepeat: 'no-repeat',
   minHeight: '100%',
   position: 'relative',
-  backgroundSize: '1500px',
+  backgroundSize: '1800px',
 };
 
 export const vcenter = {

@@ -42,7 +42,9 @@ function Forecast({ isLoading, city, current, forecast }) {
           )
          )}
       </div>
+       <div>Powered By</div>
     </div>
+
   );
 }
 
